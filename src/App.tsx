@@ -243,8 +243,8 @@ function App() {
                 className="flex gap-4 opacity-0 animate-fadeInUp"
                 style={{ animationDelay: "1s", animationFillMode: "forwards" }}>
                 <a
-                  href="/resume/Parijat_Ghosh_Resume01.pdf"
-                  download="Parijat_Ghosh_Resume01.pdf">
+                  href="/resume/Parijat_Ghosh_Resume_DEV.pdf"
+                  download="Parijat_Ghosh_Resume_DEV.pdf">
                   <button className="magnetic-btn">Download Resume</button>
                 </a>
               </div>
